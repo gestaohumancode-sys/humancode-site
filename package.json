@@ -1,0 +1,9 @@
+{
+  "name": "humancode-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional da Human Code (estatico). O build apenas copia os arquivos para dist/.",
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
